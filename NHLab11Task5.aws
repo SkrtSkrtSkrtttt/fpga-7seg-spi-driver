@@ -1,0 +1,14 @@
+[Version]
+Version=15.0
+[Designs]
+nhlab11task5=.\NHLab11Task5\NHLab11Task5.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+nhlab11task5=1
+[Settings]
+Active=nhlab11task5
