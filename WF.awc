@@ -1,0 +1,51 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="8cf8c5dae986f07f326663d88c050a00">WF.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/testbench_hex_dig_mux/stim_hex_dig_0</signal>
+        <signal>/testbench_hex_dig_mux/stim_hex_dig_1</signal>
+        <signal>/testbench_hex_dig_mux/stim_hex_dig_2</signal>
+        <signal>/testbench_hex_dig_mux/stim_hex_dig_3</signal>
+        <signal>/testbench_hex_dig_mux/stim_sel</signal>
+        <signal>/testbench_hex_dig_mux/stim_clk</signal>
+        <signal>/testbench_hex_dig_mux/exp_output</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="16185" end_time="88118" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+            <bookmark value="30379"/>
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="70000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
